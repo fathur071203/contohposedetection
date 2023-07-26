@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "375605002973",
+    "firebase_url": "https://nuerecare-7ae8a-default-rtdb.firebaseio.com",
+    "project_id": "nuerecare-7ae8a",
+    "storage_bucket": "nuerecare-7ae8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375605002973:android:5dc481a881c6b7d89a5134",
+        "android_client_info": {
+          "package_name": "com.example.contohposedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375605002973-6qksce1h38q64sk4fkm02dp6ugj06sen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiv_2fwTmMgCTSJTCvNqKsu0f8RgSwbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375605002973-6qksce1h38q64sk4fkm02dp6ugj06sen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375605002973:android:adb4375e921586de9a5134",
+        "android_client_info": {
+          "package_name": "com.example.neurecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375605002973-ecncv61hndtcj0vb9c46vec0c5te5b77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neurecare",
+            "certificate_hash": "99bf90b5a813ddf13a21c4c7f972ee0c7031e216"
+          }
+        },
+        {
+          "client_id": "375605002973-6qksce1h38q64sk4fkm02dp6ugj06sen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFiv_2fwTmMgCTSJTCvNqKsu0f8RgSwbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375605002973-6qksce1h38q64sk4fkm02dp6ugj06sen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
